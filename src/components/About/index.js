@@ -13,10 +13,10 @@ function About() {
       class="float-left pr-4 pb-3 img-fluid"
       alt="Maryia Malakhava"
     />
-    <p style={{ fontSize: "27px" }}>
+    <h5 style={{ fontSize: "27px"}}>
     I am a full Stack Web Developer with a strong background in other fields
     such as dental medicine, accounting, office administration.
-    </p>
+    </h5>
   
   </MDBCol>
 </MDBRow>

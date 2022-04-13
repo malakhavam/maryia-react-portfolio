@@ -18,10 +18,10 @@ class Resume extends Component {
                <h3>Full Stack Web Developer</h3>
               <hr></hr>
 
-              <p>
+              <h5>
                 HTML | CSS | Material-UI | JavaScript | NodeJS | SQL | MongoDB |
                 Express | React
-              </p>
+              </h5>
               <div className="icons">
                 <i class="fab fa-html5"></i>
                 <i class="fab fa-css3"></i>
