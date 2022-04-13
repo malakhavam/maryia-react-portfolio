@@ -25,11 +25,11 @@
 
    ## Screenshots
 
-   ![Mockup-image](./Src/assets/Screenshot1.png)
-   ![Mockup-image](./Src/assets/Screenshot2.png)
-   ![Mockup-image](./Src/assets/Screenshot3.png)
-   ![Mockup-image](./Src/assets/Screenshot4.png)
-   ![Mockup-image](./Src/assets/Screenshot5.png)
+   ![Mockup-image](./src/assets/Screenshot1.png)
+   ![Mockup-image](./src/assets/Screenshot2.png)
+   ![Mockup-image](./src/assets/Screenshot3.png)
+   ![Mockup-image](./src/assets/Screenshot4.png)
+   ![Mockup-image](./src/assets/Screenshot5.png)
   
    ## Contributors
 
