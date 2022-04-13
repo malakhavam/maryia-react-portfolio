@@ -44,7 +44,7 @@ class Landingpage extends Component {
                 </a>
 
                 <a
-                  href="linkedin.com/in/maryia-malakhava-ba50309b"
+                  href="https://linkedin.com/in/maryia-malakhava-ba50309b"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

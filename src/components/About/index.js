@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from "react";
 import { MDBContainer, MDBRow, MDBCol } from 'mdbreact';
 function About() {
     return(

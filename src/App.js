@@ -44,7 +44,7 @@ class App extends Component {
         </div>
         <div>
           <Footer size="mini">
-            <FooterSection type="left">
+            <FooterSection type="right">
               <FooterLinkList>
                 <Link to="https://github.com/malakhavam">Github</Link>
                 <Link to="https://linkedin.com/in/maryia-malakhava-ba50309b">
