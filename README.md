@@ -25,11 +25,11 @@
 
    ## Screenshots
 
-   ![Mockup-image](./Screenshot1.png)
-   ![Mockup-image](./Screenshot2.png)
-   ![Mockup-image](./Screenshot3.png)
-   ![Mockup-image](./Screenshot4.png)
-   ![Mockup-image](./Screenshot5.png)
+   ![Mockup-image](./Src/assets/Screenshot1.png)
+   ![Mockup-image](./Src/assets/Screenshot2.png)
+   ![Mockup-image](./Src/assets/Screenshot3.png)
+   ![Mockup-image](./Src/assets/Screenshot4.png)
+   ![Mockup-image](./Src/assets/Screenshot5.png)
   
    ## Contributors
 
