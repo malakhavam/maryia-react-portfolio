@@ -1,9 +1,9 @@
 import React from "react";
-import LandingPage from "../components/Landingpage";
-import Contact from "../components/Contactme";
-import Projects from "../components/MyProjects";
-import Resume from "../components/Resume";
-import AboutMe from "../components/About";
+import LandingPage from "../components/Landingpage.js";
+import Contact from "../components/Contactme.js";
+import Projects from "../components/MyProjects.js";
+import Resume from "../components/Resume.js";
+import AboutMe from "../components/About.js";
 import { Switch, Route } from "react-router-dom";
 
 const Routes = () => (

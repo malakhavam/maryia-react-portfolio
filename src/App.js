@@ -6,7 +6,7 @@ import {
   Content,
   Drawer,
 } from "react-mdl";
-import Footer from "./components/Footer";
+import Footer from "./components/Footer.js";
 import "./App.css";
 import Routes from "./utils/Routes";
 import { Link } from "react-router-dom";
