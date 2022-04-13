@@ -5,18 +5,14 @@ class Landingpage extends Component {
   render() {
     return (
       <div style={{ width: "100%", margin: "auto" }}>
-        <Grid className="landing-grid">
+          <Grid className="landing-grid">
           <Cell col={12}>
             <div className="banner-text">
               <h2>Hello! My name is Maryia!</h2>
               <br />
               <br />
               <br />
-              <br />
-              <br />
-              <br />
-              <br />
-              <h1>Full Stack Web Developer</h1>
+              <h3>Full Stack Web Developer</h3>
               <hr></hr>
 
               <p>

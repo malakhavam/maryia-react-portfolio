@@ -1,27 +1,19 @@
 import React, { Component } from "react";
-import {
-  Grid,
-  Cell,
-  Card,
-  CardTitle,
-  CardActions,
-  Button,
-  CardText,
-} from "react-mdl";
+import { Grid, Cell, Card, CardTitle, CardActions, Button, CardText } from "react-mdl";
 
 class MyProjects extends Component {
   render() {
     return (
       <div style={{ width: "100%", margin: "auto" }}>
-        <section className="projects-grid">
-          <Grid className="demo-grid-3">
-            <Cell col={4}>
+          <section className="projects-grid">
+            <Grid className="demo-grid-3">
+             <Cell col={4}>
               <Card shadow={5} style={{ minWidth: 450, margin: "auto" }}>
                 <CardTitle
                   style={{
                     color: "fff",
                     height: "250px",
-                    background: "url(assets/projects/tech-blog.png) center/cover",
+                    background: "url(assets/tech-blog.png) center/cover",
                   }}
                 ></CardTitle>
                 <CardText>The Tech Blog</CardText>
@@ -51,7 +43,7 @@ class MyProjects extends Component {
                   style={{
                     color: "fff",
                     height: "250px",
-                    background: "url(assets/projects/budget-tracker.png) center/cover",
+                    background: "url(assets/budget-tracker.png) center/cover",
                   }}
                 ></CardTitle>
                 <CardText>Budget Tracker</CardText>
@@ -83,7 +75,7 @@ class MyProjects extends Component {
                     color: "fff",
                     height: "250px",
 
-                    background: "url(assets/projects/food-century-fox.png) center/cover",
+                    background: "url(assets/food-century-fox.png) center/cover",
                   }}
                 ></CardTitle>
                 <CardText>Food Century Fox</CardText>
@@ -115,7 +107,7 @@ class MyProjects extends Component {
                     color: "fff",
                     height: "250px",
 
-                    background: "url(assets/projects/redi2medi.png) center/cover",
+                    background: "url(assets/redi2medi.png) center/cover",
                   }}
                 ></CardTitle>
                 <CardText>REDI2MEDI</CardText>
@@ -147,7 +139,7 @@ class MyProjects extends Component {
                     color: "fff",
                     height: "250px",
 
-                    background: "url(assets/projects/meow-care.png) center/cover",
+                    background: "url(assets/meow-care.png) center/cover",
                   }}
                 ></CardTitle>
                 <CardText>Meow Care</CardText>

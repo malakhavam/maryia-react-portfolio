@@ -5,7 +5,7 @@ class Contactme extends Component {
   render() {
     return (
       <div style={{ width: "100%", margin: "auto" }}>
-        <div className="container" id="mainContainer">
+          <div className="container" id="mainContainer">
           <Grid className="landing-grid">
             <Cell col={12}>
               <div className="banner-text">

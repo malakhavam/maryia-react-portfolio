@@ -47,7 +47,7 @@ class App extends Component {
             <FooterSection type="left">
               <FooterLinkList>
                 <Link to="https://github.com/malakhavam">Github</Link>
-                <Link to="linkedin.com/in/maryia-malakhava-ba50309b">
+                <Link to="https://linkedin.com/in/maryia-malakhava-ba50309b">
                   LinkedIn
                 </Link>
               </FooterLinkList>

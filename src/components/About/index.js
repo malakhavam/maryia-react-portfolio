@@ -1,18 +1,27 @@
-import React, { Component } from "react";
-import coverImage from "../../assets/cover/cover-image.jpg";
-import { Grid, Cell } from "react-mdl";
+import React from 'react';
+import { MDBContainer, MDBRow, MDBCol } from 'mdbreact';
+function About() {
+    return(
+<MDBContainer className="mt-5">
+<MDBRow>
+  <MDBCol md="12">
+    <h2>About Me</h2>
+    <hr class="solid bg-dark" />
+    <img
+      style={{ height: "285px" }}
+      src="https://avatars.githubusercontent.com/u/64818454?v=4"
+      class="float-left pr-4 pb-3 img-fluid"
+      alt="Maryia Malakhava"
+    />
+    <p style={{ fontSize: "27px" }}>
+    I am a full Stack Web Developer with a strong background in other fields
+    such as dental medicine, accounting, office administration.
+    </p>
+  
+  </MDBCol>
+</MDBRow>
+</MDBContainer>
 
-class AboutMe extends Component {
-  render() {
-    return (
-      <div style={{ width: "100%", margin: "auto" }}>
-        <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
-        <Grid className="landing-grid">
-          <Cell col={12}></Cell>
-        </Grid>
-      </div>
-    );
-  }
-}
-
-export default AboutMe
+)}
+  
+export default About;
