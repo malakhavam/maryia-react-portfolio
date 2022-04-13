@@ -2,13 +2,11 @@ import React, { Component } from "react";
 import {
   Layout,
   Header,
-  Footer,
-  FooterSection,
-  FooterLinkList,
   Navigation,
   Content,
   Drawer,
 } from "react-mdl";
+import Footer from "./components/Footer";
 import "./App.css";
 import Routes from "./utils/Routes";
 import { Link } from "react-router-dom";
@@ -42,19 +40,9 @@ class App extends Component {
             </Content>
           </Layout>
         </div>
-        <div>
-          <Footer size="mini">
-            <FooterSection type="right">
-              <FooterLinkList>
-                <Link to="https://github.com/malakhavam">Github</Link>
-                <Link to="https://linkedin.com/in/maryia-malakhava-ba50309b">
-                  LinkedIn
-                </Link>
-              </FooterLinkList>
-            </FooterSection>
-          </Footer>
-        </div>
+        <Footer />
       </div>
+      
     );
   }
 }
