@@ -11,24 +11,21 @@ class Landingpage extends Component {
               <h2>Hello! My name is Maryia!</h2>
               <br />
               <br />
-              <br />
               <h3>Full Stack Web Developer</h3>
               <hr></hr>
 
-              <p>
+              <h6>
                 HTML | CSS | Material-UI | JavaScript | NodeJS | SQL | MongoDB |
-                Express | React
-              </p>
+                Express | React | C++
+              </h6>
               <div className="icons">
                 <i class="fab fa-html5"></i>
                 <i class="fab fa-css3"></i>
-
                 <i class="fab fa-js-square"></i>
                 <i class="fab fa-node-js"></i>
                 <i class="fab fa-react"></i>
+                <i class="fab fa-cuttlefish"></i>
               </div>
-              <br />
-              <br />
               <br />
               <br />
               <br />

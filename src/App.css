@@ -136,7 +136,7 @@
 }
 .form-style-4 label > span{
 	display: inline-block;
-	float: left;
+	float: none;
 	width: 150px;
 }
 .form-style-4 input[type=text],

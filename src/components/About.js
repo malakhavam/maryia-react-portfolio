@@ -14,8 +14,11 @@ function About() {
       alt="Maryia Malakhava"
     />
     <h5 style={{ fontSize: "27px"}}>
-    I am a full Stack Web Developer with a strong background in other fields
-    such as dental medicine, accounting, office administration.
+    I am Full Stack Web Developer, just graduated from The Coding Boot Camp at UNC Charlotte.
+    As a problem solver who loves facing challenges in my work, 
+    I'm excited to be at the deployment phase of this new career. 
+    I'm passionate and ambitious about my work, and love to be on a team that questions possibilities. 
+    My technical skills include: HTML, CSS, Javascript, React, Redux, Mongo, Website deployment, C++. 
     </h5>
   
   </MDBCol>

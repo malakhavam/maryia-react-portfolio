@@ -107,14 +107,14 @@ class MyProjects extends Component {
                     color: "fff",
                     height: "250px",
 
-                    background: "url(https://raw.githubusercontent.com/malakhavam/redi4medi/main/assets/images/screenshot.png) center/cover",
+                    background: "url(https://raw.githubusercontent.com/malakhavam/Maryia-password-generator/main/Assets/malakhavam.github.io_Maryia-password-generator_.png) center/cover",
                   }}
                 ></CardTitle>
-                <CardText>REDI2MEDI</CardText>
+                <CardText>Password Generator</CardText>
                 <CardActions border>
                   <Button
                     colored
-                    href="https://redi4medi.herokuapp.com/"
+                    href="https://github.com/malakhavam/Maryia-password-generator"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -122,7 +122,7 @@ class MyProjects extends Component {
                   </Button>
                   <Button
                     colored
-                    href="https://github.com/TrevorL0ng/Redi2Medi"
+                    href="https://malakhavam.github.io/Maryia-password-generator/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
