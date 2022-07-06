@@ -12,7 +12,7 @@ class MyProjects extends Component {
                 <CardTitle
                   style={{
                     color: "fff",
-                    height: "250px",
+                    height: "170px",
                     background: "url(https://raw.githubusercontent.com/malakhavam/tech-blog/main/assets/screenshot.png) center/cover" 
                   }}
                 ></CardTitle>
@@ -42,7 +42,7 @@ class MyProjects extends Component {
                 <CardTitle
                   style={{
                     color: "fff",
-                    height: "250px",
+                    height: "170px",
                     background: "url(https://raw.githubusercontent.com/malakhavam/budget-tracker/main/public/images/screenshot.png) center/cover",
                   }}
                 ></CardTitle>
@@ -73,7 +73,7 @@ class MyProjects extends Component {
                 <CardTitle
                   style={{
                     color: "fff",
-                    height: "250px",
+                    height: "170px",
 
                     background: "url(https://github.com/malakhavam/movie-recipe-project/raw/main/assets/images/Screenshot2.png) center/cover",
                   }}
@@ -105,7 +105,7 @@ class MyProjects extends Component {
                 <CardTitle
                   style={{
                     color: "fff",
-                    height: "250px",
+                    height: "170px",
 
                     background: "url(https://raw.githubusercontent.com/malakhavam/Maryia-password-generator/main/Assets/malakhavam.github.io_Maryia-password-generator_.png) center/cover",
                   }}
@@ -137,7 +137,7 @@ class MyProjects extends Component {
                 <CardTitle
                   style={{
                     color: "fff",
-                    height: "250px",
+                    height: "170px",
 
                     background: "url(https://github.com/malakhavam/meow-care/blob/main/client/src/assets/images/meow-care.png?raw=true) center/cover",
                   }}
@@ -154,7 +154,31 @@ class MyProjects extends Component {
                   </Button>
                   <Button
                     colored
-                    href=""
+                    href="https://meow-care.herokuapp.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    GITHUB
+                  </Button>
+                </CardActions>
+              </Card>
+            </Cell>
+
+            <Cell col={4}>
+              <Card shadow={5} style={{ minWidth: 450, margin: "auto" }}>
+                <CardTitle
+                  style={{
+                    color: "fff",
+                    height: "170px",
+
+                    background: "url(https://raw.githubusercontent.com/malakhavam/Coffee-Shop/main/Screenshot.png) center/cover",
+                  }}
+                ></CardTitle>
+                <CardText>Coffee-Shop</CardText>
+                <CardActions border>
+                  <Button
+                    colored
+                    href="https://github.com/malakhavam/Coffee-Shop"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
