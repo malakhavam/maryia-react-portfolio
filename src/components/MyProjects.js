@@ -82,7 +82,7 @@ class MyProjects extends Component {
                 <CardActions border>
                   <Button
                     colored
-                    href="https://github.com/malakhavam/movie-recipe-project"
+                    href="https://malakhavam.github.io/movie-recipe-project/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -90,7 +90,7 @@ class MyProjects extends Component {
                   </Button>
                   <Button
                     colored
-                    href="https://malakhavam.github.io/movie-recipe-project/"
+                    href="https://github.com/malakhavam/movie-recipe-project"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -114,7 +114,7 @@ class MyProjects extends Component {
                 <CardActions border>
                   <Button
                     colored
-                    href="https://github.com/malakhavam/Maryia-password-generator"
+                    href="https://malakhavam.github.io/Maryia-password-generator/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -122,7 +122,7 @@ class MyProjects extends Component {
                   </Button>
                   <Button
                     colored
-                    href="https://malakhavam.github.io/Maryia-password-generator/"
+                    href="https://github.com/malakhavam/Maryia-password-generator"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -146,7 +146,7 @@ class MyProjects extends Component {
                 <CardActions border>
                   <Button
                     colored
-                    href="https://github.com/malakhavam/meow-care"
+                    href="https://meow-care.herokuapp.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -154,7 +154,7 @@ class MyProjects extends Component {
                   </Button>
                   <Button
                     colored
-                    href="https://meow-care.herokuapp.com/"
+                    href="https://github.com/malakhavam/meow-care"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
